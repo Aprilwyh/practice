@@ -1,0 +1,18 @@
+love
+
+[credential]
+     helper = store
+
+[user]
+	name = Aprilwyh
+	email = 1416402295@qq.com
+	signingkey = W0101m0401
+[user]
+	email = 1416402295@qq.com
+  [credential]  helper = store
+[core]
+
+
+
+
+C:\Documents and Settings\Administrator
