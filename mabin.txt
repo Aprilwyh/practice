@@ -16,3 +16,4 @@ love
 
 
 C:\Documents and Settings\Administrator
+y
