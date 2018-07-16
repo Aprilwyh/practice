@@ -1,4 +1,4 @@
-package com.vivi.employee;
+package com.vivi.employeedemo;
 
 public class Employee {
 
@@ -14,10 +14,19 @@ public class Employee {
 	public String getName() {
 		return name;
 	}
-	public String address() {
+	public String getAddress() {
 		return address;
 	}
-	public int number() {
+	public int getNumber() {
 		return number;
 	}
+	public void mailCheck() {
+		System.out.println("邮寄支票给：" + this.name + ",地址为：" + this.address);
+	}
+	/*public String toString() {
+		return name + " " + address + " " + number;
+	}
+	public void setAddress(String newAddress) {
+		address = newAddress;
+	}*/
 }
